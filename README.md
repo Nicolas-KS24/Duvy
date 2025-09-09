@@ -60,7 +60,7 @@ Aplicação web pessoal para armazenar e compartilhar momentos especiais, como p
 
 ## Tecnologias Utilizadas
 
-- **Front-end:** HTML5, CSS3, JavaScript puro (ou React, se desejar).
+- **Front-end:** HTML5, CSS3, JavaScript.
 - **Back-end:** Node.js com Express.
 - **Banco de Dados:** PostgreSQL.
 - **Autenticação:** JWT ou sessões (opcional).
